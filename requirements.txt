@@ -1,0 +1,27 @@
+# Data Processing
+pandas
+polars
+numpy
+pyarrow
+
+# Machine Learning & Deep Learning
+torch
+torchvision
+transformers
+sentence-transformers
+scikit-learn
+gensim
+
+# Image Processing
+Pillow
+
+# Progress & Utilities
+tqdm
+python-dotenv
+
+# For RAG Project (if hosted in same repo)
+pdfplumber
+faiss-cpu
+groq
+flask
+flask-cors
