@@ -36,10 +36,9 @@ This repository contains the complete solution for the **RS Competition**, achie
 ---
 
 ## 🖼️ Graphical Abstract (End-to-End Pipeline)
-```
+
 <img width="776" height="332" alt="image" src="/images/graphical_abstract.png" />
 
-```
 
 ---
 
