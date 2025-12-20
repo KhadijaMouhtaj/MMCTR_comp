@@ -142,7 +142,7 @@ Training Complete! Best AUC: 0.8765
 ```
 MM-CTR-Competition/
 │
-├── MM_CTR_Full_Pipeline.ipynb    # 🎯 Complete pipeline (Task 1 + Task 2)
+├── THEEND.ipynb    # 🎯 Complete pipeline (Task 1 + Task 2)
 ├── requirements.txt               # Python dependencies
 ├── README.md                      # This file
 │
@@ -154,14 +154,10 @@ MM-CTR-Competition/
 │   └── test.parquet
 │
 ├── outputs/
-│   ├── item_info_updated.parquet # Task 1 output (128D embeddings)
-│   ├── dcn_best.pt               # Task 2 best model checkpoint
 │   ├── prediction.csv            # Final predictions
 │   └── submission_task2.zip      # Competition submission file
 │
-└── assets/
-    ├── pipeline_diagram.png      # Graphical abstract
-    └── presentation_video.mp4    # 3-6 minute explanation
+└
 ```
 
 ---
@@ -215,17 +211,6 @@ Upload `outputs/submission_task2.zip` to the [competition page](https://www.coda
 
 ---
 
-## 🎥 Video Presentation
-
-**Duration:** 4 minutes
-
-**Link:** [Watch Presentation](https://youtu.be/your-video-link)
-
-**Covers:**
-- Overall approach and architecture
-- Key design decisions (CLIP + Word2Vec fusion)
-- DCN-DIN hybrid model explanation
-- Results and evaluation metrics
 
 ---
 
